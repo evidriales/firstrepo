@@ -4,5 +4,4 @@
 
 Big Data involves large volumes of data that are constantly increasing. Big data typically has much variability and is dynamic. Big Data also presents challenges that small data does not. These challenged include storage issues, processing times, and just keeping up with the contast flow of data that is coming in and representing findings accurately.
 
-![Edgar visiting Machu Picchu](/Users/edgarvidriales/Desktop/IMG_0851.png)
 
